@@ -5,28 +5,30 @@
 
 <!-- TOP LINKS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/sanjna-838a13300" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://github.com/Sanjna05x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/sanjn12t0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&color=0F9D58&logoColor=white&style=for-the-badge" height="25" />
-  </a>
+<a href="https://github.com/Sanjna05x" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/sanjna-838a13300" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
+</a>
+<a href="https://www.hackerrank.com/profile/kiranpuri082" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-plain.svg" height="30" alt="HackerRank" />
+</a>
+<a href="https://www.geeksforgeeks.org/profile/sanjn12t0" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" height="30" alt="GeeksforGeeks" />
+</a>
 </div>
-
-###
+  
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sanjna05x.Sanjna05x" />
 </div>
 
-###
+
 
 <h1 align="center">Hey there!👋 I'm Sanjna</h1>
 ---
-###
+
 
 <h3 align="left">😊 About Me</h3>
 
@@ -40,6 +42,8 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 - 📚 Learning C, C++, Java, Python, SQL, Flutter & Android Development<br>
 - ⚡ Curious learner & problem solver.
 </p>
+
+---
 <h3 align="left">🛠️ Languages & Tools</h3>
 
 <p align="left">
@@ -96,7 +100,6 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/sanjn12t0
 - 📧 Email: [sanjna05x@gmail.com](mailto:sanjna05x@gmail.com)  
 Feel free to reach out for collaboration or queries.
-
 
 ---
 
