@@ -26,6 +26,7 @@
 <h3 align="left">😊 About Me</h3>
 
 <p align="left">
+ Student at CGC-University,mohali.
 I'm Sanjna, an aspiring software developer passionate about learning and building real-world applications.<br><br>
 -B.Tech student in Artificial Intelligence & Data Science, passionate about solving real-world problems using technology 💻
 Skilled in Java, Python, DBMS, Machine Learning, Data Analysis, and AI tools.
