@@ -58,8 +58,6 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 </p>
 
 
----
-
 <h3 align="left">📊 Coding Profiles</h3>
 
 <div align="center">
