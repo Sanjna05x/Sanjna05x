@@ -1,8 +1,6 @@
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VqNG5qcmR2b2V4eDVxOW5hbTF6eDk1bXJzOWt0c3JzYTB0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" />
 
----
-
 </div>
 
 ###
@@ -29,7 +27,7 @@
 ###
 
 <h1 align="center">Hey there!👋 I'm Sanjna</h1>
-
+---
 ###
 
 <h3 align="left">😊 About Me</h3>
@@ -79,11 +77,6 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 </div>
 
 ###
-
-<h3 align="left">🔥 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanjna05x&theme=dark&border_radius=5" height="220" />
 </div>
 
 ---
@@ -105,7 +98,10 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 - GitHub: https://github.com/Sanjna05x  
 - LinkedIn: https://www.linkedin.com/in/sanjna-838a13300  
 - HackerRank: https://www.hackerrank.com/profile/kiranpuri082  
-- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sanjn12t0  
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/sanjn12t0
+- 📧 Email: [sanjna@example.com](mailto:sanjna@example.com)  
+Feel free to reach out for collaboration or queries.
+
 
 ---
 
