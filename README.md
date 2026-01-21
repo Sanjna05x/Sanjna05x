@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/sanjna-838a13300" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
 </a>
-<a href="https://www.geeksforgeeks.org/profile/sanjn12t0" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" height="30" alt="GeeksforGeeks" />
-</a>
 </div>
   
 
@@ -32,7 +29,6 @@
 I'm Sanjna, an aspiring software developer passionate about learning and building real-world applications.<br><br>
 -B.Tech student in Artificial Intelligence & Data Science, passionate about solving real-world problems using technology 💻
 Skilled in Java, Python, DBMS, Machine Learning, Data Analysis, and AI tools.
-A quick learner with a strong curiosity for exploring and adapting to new technologies.
 Actively seeking internships and growth opportunities in the AI & Data Science domain.
 - 🔭 Working on academic & personal projects<br>
 - 📚 Learning C, C++, Java, Python, SQL, Flutter & Android Development<br>
