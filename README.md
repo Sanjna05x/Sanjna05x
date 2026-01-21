@@ -3,8 +3,6 @@
 
 </div>
 
-###
-
 <!-- TOP LINKS -->
 <div align="center">
   <a href="https://www.linkedin.com/in/sanjna-838a13300" target="_blank">
@@ -42,28 +40,25 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 - 📚 Learning C, C++, Java, Python, SQL, Flutter & Android Development<br>
 - ⚡ Curious learner & problem solver.
 </p>
+<h3 align="left">🛠️ Languages & Tools</h3>
 
-###
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-<div align="left">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+</p>
 
-###
+
+---
 
 <h3 align="left">📊 Coding Profiles</h3>
 
@@ -99,7 +94,7 @@ Actively seeking internships and growth opportunities in the AI & Data Science d
 - LinkedIn: https://www.linkedin.com/in/sanjna-838a13300  
 - HackerRank: https://www.hackerrank.com/profile/kiranpuri082  
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/sanjn12t0
-- 📧 Email: [sanjna@example.com](mailto:sanjna@example.com)  
+- 📧 Email: [sanjna05x@gmail.com](mailto:sanjna05x@gmail.com)  
 Feel free to reach out for collaboration or queries.
 
 
