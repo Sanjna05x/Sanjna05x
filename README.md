@@ -28,18 +28,21 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Sanjna</h1>
+<h1 align="center">Hey there!👋 I'm Sanjna</h1>
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">😊 About Me</h3>
 
 <p align="left">
 I'm Sanjna, an aspiring software developer passionate about learning and building real-world applications.<br><br>
+-B.Tech student in Artificial Intelligence & Data Science, passionate about solving real-world problems using technology 💻
+Skilled in Java, Python, DBMS, Machine Learning, Data Analysis, and AI tools.
+A quick learner with a strong curiosity for exploring and adapting to new technologies.
+Actively seeking internships and growth opportunities in the AI & Data Science domain.
 - 🔭 Working on academic & personal projects<br>
 - 📚 Learning C, C++, Java, Python, SQL, Flutter & Android Development<br>
-- 📱 Interested in Android & cross-platform apps<br>
-- ⚡ Curious learner & problem solver
+- ⚡ Curious learner & problem solver.
 </p>
 
 ###
