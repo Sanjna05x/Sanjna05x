@@ -11,9 +11,6 @@
 <a href="https://www.linkedin.com/in/sanjna-838a13300" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
 </a>
-<a href="https://www.hackerrank.com/profile/kiranpuri082" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-plain.svg" height="30" alt="HackerRank" />
-</a>
 <a href="https://www.geeksforgeeks.org/profile/sanjn12t0" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" height="30" alt="GeeksforGeeks" />
 </a>
@@ -27,7 +24,6 @@
 
 
 <h1 align="center">Hey there!👋 I'm Sanjna</h1>
----
 
 
 <h3 align="left">😊 About Me</h3>
