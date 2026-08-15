@@ -26,13 +26,17 @@
 <h3 align="left">😊 About Me</h3>
 
 <p align="left">
-I'm Sanjna, an aspiring software developer passionate about learning and building real-world applications.<br><br>
--B.Tech student in Artificial Intelligence & Data Science, passionate about solving real-world problems using technology 💻
-Skilled in Java, Python, DBMS, Machine Learning, Data Analysis, and AI tools.
-Actively seeking internships and growth opportunities in the AI & Data Science domain.
-- 🔭 Working on academic & personal projects<br>
-- 📚 Learning C, C++, Java, Python, SQL, Flutter & Android Development<br>
-- ⚡ Curious learner & problem solver.
+I'm Sanjna, a B.Tech student in Artificial Intelligence & Data Science, passionate about technology, data, and building real-world applications. 💻
+
+* 🎓 B.Tech in Artificial Intelligence & Data Science
+* 💻 Skilled in Python, Java, C, C++, SQL, DBMS, Machine Learning & Data Analysis
+* 📊 Experienced with Excel, Power BI, Python-based EDA, and Machine Learning projects
+* 🤖 Exploring AI tools and modern technologies to solve real-world problems
+* 🔭 Building academic, personal, and data-driven projects
+* 📚 Continuously learning and improving my skills in AI, Data Science & Software Development
+* 🚀 Actively seeking internships and opportunities to gain industry experience
+* ⚡ Curious learner, problem solver, and passionate about turning ideas into practical solutions
+
 </p>
 
 ---
