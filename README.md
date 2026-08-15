@@ -90,7 +90,7 @@ I'm Sanjna, a B.Tech student in Artificial Intelligence & Data Science, passiona
 
 - GitHub: https://github.com/Sanjna05x  
 - LinkedIn: https://www.linkedin.com/in/sanjna-838a13300  
-- HackerRank: https://www.hackerrank.com/profile/kiranpuri082  
+- HackerRank: https://www.hackerrank.com/profile/sanjna05x
 - GeeksforGeeks: https://www.geeksforgeeks.org/profile/sanjn12t0
 - 📧 Email: [sanjna05x@gmail.com](mailto:sanjna05x@gmail.com)  
 Feel free to reach out for collaboration or queries.
